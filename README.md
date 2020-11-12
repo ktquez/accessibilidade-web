@@ -1,2 +1,1 @@
-# Web Accessibility studies
-Repositório de estudos sobre accessibilidade web
+# Repositório de estudos sobre accessibilidade web
