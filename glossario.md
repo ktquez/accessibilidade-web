@@ -25,7 +25,7 @@ A ARIA preenche a lacuna onde não é possível prover acessibilidade através d
 
 ## Deficiência temporária
 
-## Tecnologias assistivas
+## Tecnologia assistiva
 
 ## Leitor de tela
 
