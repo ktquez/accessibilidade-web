@@ -22,11 +22,12 @@ O Marcus tem Dislexia e Síndrome de Usher, que é uma doença genética (heredi
 - A Síndrome de Usher é seguimentada em 4 tipos
   - Tipo 1: Você já nasce cego ou surdo;
   - Tipo 2 e 3: Após a puberdade começa a desenvolver os sintomas;
-  - Tipo 4: É um tipo mais raro , afeta apenas 10% da população acometida pela Síndrome de Usher;
+  - Tipo 4: É um tipo mais raro, afeta apenas 10% da população acometida pela Síndrome de Usher;
 
 
 ### Links extras
-- [Síndrome do Usher - FIOCRUZ](http://www.fiocruz.br/biosseguranca/Bis/infantil/sindrome-usher.htm)
+- [Síndrome de Usher Brasil](https://en.sindromedeusherbrasil.com.br/)
+- [Síndrome de Usher - FIOCRUZ](http://www.fiocruz.br/biosseguranca/Bis/infantil/sindrome-usher.htm)
 
 ---
 
