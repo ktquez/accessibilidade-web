@@ -53,7 +53,7 @@ Marcus fala sobre o escopo dos problemas de acessibilidade e a ampla gama de dif
   - Dentre outras;
 
 ### Links extras
-- [Diverse Abilities and Barriers - W3C WAI](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
+- <span lang="en">[Diverse Abilities and Barriers - W3C WAI](https://www.w3.org/WAI/people-use-web/abilities-barriers/)</span>
 
 ---
 
@@ -65,7 +65,7 @@ Marcus fala sobre as opções  de acessibilidade da BBC iPlayer e como elas pode
 **Duração:** 6:06 min
 
 ### Anotações
-- No suporte de acessibilidade do BCC iPlayer tem diversas opções que melhoram a experiência para visão parcial e cego, problemas de audição e também dilexia, porém peca em não disponibilizar ao usuário a possibilidade de mudar a aparência do site, o site de suporte tem um layout completamente diferente do site principal, trazendo confusão para os usuários. O site de supporte não usa conexão segura, coisa que viola o GDPR (General Data Protection Regulation);
+- No suporte de acessibilidade do BCC iPlayer tem diversas opções que melhoram a experiência para visão parcial e cego, problemas de audição e também dilexia, porém peca em não disponibilizar ao usuário a possibilidade de mudar a aparência do site. O site de suporte tem um layout completamente diferente do site principal, trazendo confusão para os usuários e não usa conexão segura (https), coisa que viola o GDPR (<span lang="en">[General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)</span>);
 - Já na Netflix, as configurações de acessibilidade ficam no mesmo domínio (na configuração do usuário), porém muito difícil de encontrar, com textos de baixo contraste;
 - O Marcus mostra um redesign do BBC iPlayer, mantendo essas personalizações no mesmo ambiente web;
 - O uso de ícones na interface, junto com seu rótulo (texto), ajudam aqueles usuários que tem dificuldades de leitura a entender a ação;
@@ -76,7 +76,7 @@ Marcus fala sobre as opções  de acessibilidade da BBC iPlayer e como elas pode
 ### Links extras
 - [BBC iPlayer](https://www.bbc.co.uk/iplayer);
 - [Netflix](https://www.netflix.com/browse);
-- [Broaden your audience: accessibility features in video streaming - Unified Streaming](https://www.unified-streaming.com/blog/broaden-your-audience-accessibility-features-video-streaming)
+- <span lang="en">[Broaden your audience: accessibility features in video streaming - Unified Streaming](https://www.unified-streaming.com/blog/broaden-your-audience-accessibility-features-video-streaming)</span>
 
 ---
 
@@ -214,4 +214,4 @@ Marcus fala sobre as opções  de acessibilidade da BBC iPlayer e como elas pode
 - Eu costumo usar (além do aXe) e recomendo muito é a extensão chamada [Accessibility Insights for Web](https://accessibilityinsights.io/docs/en/web/overview/) by Microsoft, acho ela incrível, didática e bem completa.
 
 ### Links extras
-- Para outras opções eu sempre pesquiso em [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/) (da W3C) que lista dezenas de ferramentas de avaliação;
+- Para outras opções eu sempre pesquiso em <span lang="en">[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)</span> (da W3C) que lista dezenas de ferramentas de avaliação;
