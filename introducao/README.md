@@ -31,16 +31,17 @@ Acessibilidade abrange todas as deficiências, incluindo:
 - Cognitiva;
 - Neurológica;
 - Física;
-- Auditiva e de fala;
+- Auditiva;
+- De fala;
 - Visual;
 
 Também para quem não tem deficiência, por exemplo:
 
-- Idosos (com habilidades mutáveis devido ao envelhecimento)
-- Pessoas com deficiência temporárias (um braço quebrado, sem óculos)
-- Limitações situacionais (Luz intensa, ambiente inaudível, mouse quebrado)
-- Pessoas com internet lenta ou banda limitada ou cara
-- Pessoas que usam telefones celulares, relógios e TV inteligente ou outros dispositivos de telapequena ou modos de entrada diferente
+- Idosos (com habilidades mutáveis devido ao envelhecimento);
+- Pessoas com deficiência temporárias (um braço quebrado, sem óculos);
+- Limitações situacionais (Luz intensa, ambiente inaudível, mouse quebrado);
+- Pessoas com internet lenta ou banda limitada ou cara;
+- Pessoas que usam telefones celulares, relógios e TV inteligente ou outros dispositivos de tela pequena ou modos de entrada diferente;
 
 ## Nascido acessível
 
