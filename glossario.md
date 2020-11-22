@@ -18,8 +18,20 @@ ARIA (<span lang="en">Accessible Rich Internet Applications</span>) é um conjun
 A ARIA preenche a lacuna onde não é possível prover acessibilidade através de elementos nativos HTML e seu uso é muito importante especialmente em conteúdo dinâmico e/ou controles avançados de interface com o usuário desenvolvidos em Ajax, HTML, JavaScript ou outras tecnologias relacionadas.
 
 ## WCAG
+WCAG (<span lang="en">Web Content Accessibility Guidelines</span>) São diretrizes de acessibilidade de conteúdo da web que tem como objetivo fornecer um único padrão compartilhado e que atenda internacionalmente as necessídades de individuos, organizações e governos.
 
 ## ATAG
+ATAG (<span lang="en">Authoring Tool Accessibility Guidelines</span>) São diretrizes de acessibilidade para [ferramentas de autoria](#ferramentas-de-autoria) e e faz parte de uma série de diretrizes de acessibilidade, incluíndo [WCAG](#wcag) e [UAAG](#uaag).
+
+## Ferramentas de autoria
+São softwares ou serviços que "autores" (Designers, Desenvolvedores da web, escritores e etc) usamos para produzir conteúdo da web, por exemplo:
+
+- Ferramentas de criação de páginas web do tipo (WYSIWYG - <span lang="en">What you see is what you get</span>), traduzindo ficaria aproximadamente "O que você vê é o que você obtem";
+- Sistemas de gerenciamento de conteúdo (CMS), por exemplo: Wordpress, Drupal e etc;
+- Sites que permitem inserir conteúdo, por exemplo: Blog, Wikis, Redes sociais e etc;
+- e muitas outras que dá para conferir em [ATAG - Authoring tool](https://www.w3.org/TR/ATAG20/#def-Authoring-Tool)
+
+## UAAG
 
 ## Deficiências comuns
 
