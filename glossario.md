@@ -33,6 +33,9 @@ São softwares ou serviços que "autores" (Designers, Desenvolvedores da web, es
 
 ## UAAG
 
+## APA WG
+APA WG(<span lang="en">Accessible Platform Architectures Working Group</span>) é um grupo de trabalho com a missão de garantir que as especificações da W3C forneçam suporte acessível para usuários com deficiência.
+
 ## Deficiências comuns
 
 ## Deficiência temporária
