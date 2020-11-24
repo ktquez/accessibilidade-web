@@ -45,3 +45,6 @@ APA WG(<span lang="en">Accessible Platform Architectures Working Group</span>) �
 ## Leitor de tela
 
 ## <span lang="en">Speech recognition</span> (Reconhecimento de fala)
+
+## Design universal
+Se tratando de acessibilidade na web, é projetar sites e aplicações de forma de que possa ser acessível pelo maior número de pessoas possível, independentemente da idade, habilidade ou status social.
