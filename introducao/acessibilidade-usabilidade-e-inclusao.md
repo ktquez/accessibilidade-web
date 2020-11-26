@@ -4,7 +4,7 @@ São aspectos que se relacionam e que quando são colocados em prática juntos n
 
 - **Acessibilidade** aborda aspectos na experiência do usuário de pessoas com deficiência;
 - **Usabilidade** aborda aspectos gerais que tornam sites e apps mais eficazes, mas nem sempre atendem suficientemente às necessidades de pessoas com deficiência;
-- **Inclusão** aborda aspectos relacionados a diversidade e busca ao máximo o envolvimento de todos ([Design Universal](glossario.md#design-universal));
+- **Inclusão** aborda aspectos relacionados a diversidade e busca ao máximo o envolvimento de todos ([Design Universal](/glossario.md#design-universal));
 
 ## Acessibilidade e usabilidade
 A acessibilidade se concentra principalmente em pessoas com deficiência, porém diversos requisitos de acessibilidade melhoram a usabilidade para todos, por exemplo:
@@ -22,7 +22,7 @@ Um design adequado evita criar barreiras para pessoas com deficiência. Por exem
 
 A ISO define usabilidade como:
 
-> A medida em que um produto pode ser usado por usuários específicos para atingir objetivos específicosde forma eficaz, eficiente e com satisfação em um contexto de uso específico
+> A medida em que um produto pode ser usado por usuários específicos para atingir objetivos específicos de forma eficaz, eficiente e com satisfação em um contexto de uso específico
 
 Baseado nessa definição, isso pode abordar acessibilidade quando:
 
