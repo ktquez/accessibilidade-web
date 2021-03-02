@@ -14,7 +14,7 @@ A acessibilidade se concentra principalmente em pessoas com deficiência, porém
 
 A acessibilidade inclui:
 
-**Requisitos que são técnicos e se relacionamao código subjacente, e não à aparência visual**.  
+**Requisitos que são técnicos e se relacionam ao código subjacente, e não à aparência visual**.  
 Garante que os sites funcionem bem com tecnologias assistivas, como por exemplo, leitores de tela ou software de reconhecimento de voz. Normalmente esses aspectos não são o foco de pesquisa e prática de usabilidade.
 
 **Requisitos relacionados a interação do usuário e design visual**.  

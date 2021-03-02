@@ -12,7 +12,7 @@
 
 A web é fundamentalmente projetada para funcionar para todas as pessoas, independente de qualquer contexto.
 
-Quando o seu site é mal projetados, ele pode criar barreiras que impedem as pessoas de usar a web.
+Quando o seu site é mal projetado, ele pode criar barreiras que impedem as pessoas de usá-lo.
 
 Então ao criar sites de alta qualidade, você faz a web atingir seu objetivo.
 
@@ -45,4 +45,4 @@ Também para quem não tem deficiência, por exemplo:
 
 ## Nascido acessível
 
-Construa sites com acesibilidade em mente, é importante considerar a acessibilidade no início e também em todas as etapas do processo de design e desenvolvimento, chamamos essa abordagem de Nascido acessível, ou "<span lang="en">Born Accessíble</span>".
+Construa sites com acesibilidade em mente, é importante considerar a acessibilidade no início e também em todas as etapas do processo de design e desenvolvimento, essa abordagem é conhecida como **Nascido acessível** ("<span lang="en">Born Accessible</span>").

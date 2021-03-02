@@ -31,11 +31,11 @@ Nessa aula Marcus dá mais detalhes sobre as diretrizes da WCAG, a importância 
 Originalmente chamado de Design cooperativo, e atualmente co-design, é um método que busca envolver todos os interessados no processo de design para ajudar a garantir que o resultado seja preciso e utilizável.
 
 ### Anotações
-- Facilita o compartilhanto de experiências entre o designer e seu conhecimento do que é possível, e o usuário e seu conhecimento do que é necessário;
+- Facilita o compartilhamento de experiências entre o designer e seu conhecimento do que é possível, e o usuário e seu conhecimento do que é necessário;
 - Design participativo para desenvolvimento de software acessível trata de envolver pessoas com deficiência como especialistas em suas próprias experiências, fazendo com que as necessidades sejam mais bem atendidas; 
 - As diretrizes de acessibilidade pode ajudar a atender requisitos comuns em cenários já conhecidos, mas quando surgem novas situações envolvê-los é a melhor forma de garantir que o software permaneça acessível;
 - O design participativo nos permite envolver as perspectivas das pessoas com necessidades de acessibilidade desde o início do design e garantir que essas perspectivas sejam ouvidas;
-- A colaboração é mais do que apenas explorar o conhecimento das partes interessadas, mas também trata-se de descobrir perspectívas únicas e coletivas, o que torna vital criamos juntos;
+- A colaboração é mais do que apenas explorar o conhecimento das partes interessadas, mas também trata-se de descobrir perspectívas únicas e coletivas, o que torna vital criarmos juntos;
 - O Design participativo não é uma consulta ou aprovação do projeto pelo usuário final, pelo contrário, a sua participação deve ser plena no processo e suas constribuições devem ser igualmente consideradas.
 
 ### Links extras
