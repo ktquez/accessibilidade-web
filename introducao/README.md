@@ -24,7 +24,7 @@ Então ao criar sites de alta qualidade, você faz a web atingir seu objetivo.
 
 ---
 
-Acessibilidade na web é quando projetamos produtos e serviços do jeito certo, com alta qualidade e usabilidade, onde as pessoas possam perceber, entender, navegar e interagir com a web, sem barreiras que dificultem o acesso de pessoas com ou sem deficiência.
+Acessibilidade na web é quando projetamos produtos e serviços do jeito certo, com alta qualidade e usabilidade, onde as pessoas possam perceber, entender, navegar e interagir com a web, sem barreiras que dificultam o acesso de pessoas com ou sem deficiência.
 
 Acessibilidade abrange todas as deficiências, incluindo:
 
@@ -45,4 +45,4 @@ Também para quem não tem deficiência, por exemplo:
 
 ## Nascido acessível
 
-Construa sites com acesibilidade em mente, é importante considerar a acessibilidade no início e também em todas as etapas do processo de design e desenvolvimento, essa abordagem é conhecida como **Nascido acessível** ("<span lang="en">Born Accessible</span>").
+Construa sites com acessibilidade em mente, é importante considerar a acessibilidade no início e também em todas as etapas do processo de design e desenvolvimento, essa abordagem é conhecida como **Nascido acessível** ("<span lang="en">Born Accessible</span>").
